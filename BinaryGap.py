@@ -37,7 +37,7 @@ def solution(N):
     return(maxcount)
 
 if __name__ == '__main__':
-    N=32 
+    N=12 
     # print(bin(N))
     print(solution(N))
     
